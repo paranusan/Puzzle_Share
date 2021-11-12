@@ -5,10 +5,7 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 0
-    path: Assets/Creator Kit - Puzzle/Scenes/DefaultScenes/DefaultMenu.unity
-    guid: c065003158c5d3047b88e65e2b93f039
   - enabled: 1
-    path: Assets/Creator Kit - Puzzle/Scenes/UserCreated/newLevel2.unity
-    guid: 419f0a44f014eb244ba1b591d8428e78
+    path: Assets/Creator Kit - Puzzle/Scenes/test/newLevel_jihoon.unity
+    guid: cddd712706897c744a4d133de984cfb7
   m_configObjects: {}
